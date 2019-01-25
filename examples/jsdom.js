@@ -1,3 +1,4 @@
+/*
 const jsdom = require('jsdom');
 
 const { JSDOM } = jsdom;
@@ -38,3 +39,4 @@ console.log(html);
 
 // Fáum HTML úr DOM hlut
 console.log(html.outerHTML);
+*/
